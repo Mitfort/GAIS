@@ -8,3 +8,10 @@ wheels/
 
 # Virtual environments
 .venv
+
+# Experiments results
+results/
+recordings/
+
+# Environment files
+environment_files/
